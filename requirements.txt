@@ -5,6 +5,3 @@ sentence-transformers
 faiss-cpu
 numpy
 pymongo[srv]
-
-# FkTsowqJu3eY0fvX
-# mongodb+srv://2022dhruvmaurya:oceQSAlrZK8WToW4@cluster0.i3el8jt.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
