@@ -79,3 +79,18 @@ This repository contains a collection of mini-projects, experiments, and tool in
 - Install dependencies:
   ```bash
   pip install -r requirements.txt
+
+
+  
+> ⚠️ **Note: This repository is currently a Work In Progress (WIP).**
+> 
+> While the base functionality works, things might be rough around the edges!  
+> I'm constantly building, updating, cleaning, and improving.
+> 
+> **Contributions, suggestions, bug fixes, and improvements are always welcome!**
+> If you have an idea or improvement in mind, feel free to jump in.  
+> This is a learning journey — let’s grow it together.
+>
+> Hope it helps. Stay Hard! 💪
+
+---
