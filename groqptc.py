@@ -209,3 +209,4 @@
 # const elevenLabsApiKey =
 # process.env.ELEVEN_LABS_API_KEY;
 # const voiceID = "EXAMPLE_VOICE_ID";
+# print(groq)
