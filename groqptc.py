@@ -25,7 +25,7 @@
 # )
 
 # **********************************************************************************************************************
-# CHAINS TOOLS AND AGENTS INITIALIZATION 
+# CHAINS TOOLS AND AGENTS INITIALIZATION pratice
 # **********************************************************************************************************************
 
 # from langchain.prompts import PromptTemplate
